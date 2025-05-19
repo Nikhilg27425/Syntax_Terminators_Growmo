@@ -1,4 +1,4 @@
-# Market Basket Recommendation UI
+# GroMo AI Hackathon 2025
 
 This project implements a **Market Basket Analysis** model using the **Apriori algorithm**, with a user-friendly interface built on **Streamlit**. It enables quick identification of frequently co-purchased services and suggests optimal service bundles to users.
 
